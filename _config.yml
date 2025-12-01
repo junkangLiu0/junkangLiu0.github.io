@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lianyu Hu"
+title                    : "Junkang Liu"
 description              : " "
-repository               : "hulianyuyy/hulianyuyy.github.io"
+repository               : "junkangLiu0/junkangLiu0.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lianyu Hu"
+  name             : "Junkang Liu"
   avatar           : "images/brown.jpg"
   bio              : "4th-year PhD candidate in Tianjin Univeisity"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UNn2NIwAAAAJ"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=N7pJWIoAAAAJ&hl=en"
   email            : "hly2021@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hulianyuyy"
+  github           : "junkangLiu0"
   google_plus      :
   keybase          :
   instagram        :
