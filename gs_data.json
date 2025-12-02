@@ -1,0 +1,19 @@
+{
+  "citations": 156,
+  "hindex": 9,
+  "i10index": 7,
+  "papers": [
+    {
+      "id": "test_paper_1",
+      "title": "Federated Learning for Edge Computing",
+      "citations": 68,
+      "year": "2023"
+    },
+    {
+      "id": "test_paper_2",
+      "title": "Privacy-Preserving Federated Learning",
+      "citations": 45,
+      "year": "2022"
+    }
+  ]
+}
