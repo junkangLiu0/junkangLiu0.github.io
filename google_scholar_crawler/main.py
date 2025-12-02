@@ -25,22 +25,13 @@ socket.setdefaulttimeout(30)
 # -------------------------
 try:
     # Manually get a working free proxy
-    from fp.fp import FreeProxy
+    proxy = FreeProxy().get_proxy_list(repeat=3)[0]
     
-    proxy_obj = FreeProxy()
-    proxy_list = proxy_obj.get_proxy_list(repeat=True)
+    pg = ProxyGenerator()
+    pg.SingleProxy(http=proxy, https=proxy)
+    scholarly.use_proxy(pg)
     
-    if proxy_list:
-        proxy = proxy_list[0]
-        print(f"✅ Found proxy: {proxy}")
-        
-        pg = ProxyGenerator()
-        pg.SingleProxy(http=proxy, https=proxy)
-        scholarly.use_proxy(pg)
-        print(f"✅ Proxy setup successful")
-    else:
-        print("⚠️ No proxy found, proceeding without proxy")
-        
+    print(f"✅ Proxy setup successful: {proxy}")
 except Exception as e:
     print(f"⚠️ Proxy setup failed or skipped: {e}")
 
