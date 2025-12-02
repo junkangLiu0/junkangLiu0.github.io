@@ -26,7 +26,7 @@ jobs:
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
       run: |
-        python google_scholar_crawler.py
+        python google_scholar_crawler/google_scholar_crawler.py 
     
     - name: Check generated file
       run: |
