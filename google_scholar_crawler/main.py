@@ -25,7 +25,7 @@ socket.setdefaulttimeout(30)
 # -------------------------
 try:
     # Manually get a working free proxy
-    proxy = FreeProxy().get_proxy_list(repeat=3)[0]
+    proxy = FreeProxy().get()
     
     pg = ProxyGenerator()
     pg.SingleProxy(http=proxy, https=proxy)
