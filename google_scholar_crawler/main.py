@@ -25,7 +25,7 @@ socket.setdefaulttimeout(30)
 # -------------------------
 try:
     # Manually get a working free proxy
-     from fp.fp import FreeProxy
+    from fp.fp import FreeProxy
     
     proxy_obj = FreeProxy()
     proxy_list = proxy_obj.get_proxy_list(repeat=True)
