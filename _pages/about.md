@@ -33,15 +33,15 @@ Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof
 # 📝 Publications 
 
 ## 📖 PrePrint
-- [FedNSAM: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang, Yuxuan Tian, Hongying Liu, Yuanyuan Liu. 2025.10. [[code](https://github.com//junkangLiu0/FedNSAM)].
+- [FedNSAM: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226), **Junkang Liu**, Fanhua Shang, Yuxuan Tian, Hongying Liu, Yuanyuan Liu. 2025.10. [[code](https://github.com//junkangLiu0/FedNSAM)].
   
-- [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **J Liu**, F Shang, J Zhou, H Liu, Y Liu, J Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedMuon)].
+- [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **Junkang Liu**, Fanhua Shang, Junchao Zhou, Hongying Liu, Yuanyuan Liu, Jin Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedMuon)].
 
-- [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504),**J Liu**, Y Tian, F Shang, Y Liu, H Liu, J Zhou, D Ding. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
+- [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504), **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
 
-- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/pdf/2510.27486),**J Liu**, F Shang, K Zhu, H Liu, Y Liu, J Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedAdamW)].
+- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/pdf/2510.27486), **Junkang Liu**, Fanhua Shang, Kewen Zhu, Hongying Liu, Yuanyuan Liu, Jin Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedAdamW)].
 
-- [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), **J Zhou**, J Liu, F Shang. 2025.11
+- [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), **Junchao Zhou**, Junkang Liu, Fanhua Shang. 2025.11
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
 - [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>NeurIPS 2024</i>**. [[code](https://github.com/junkangLiu0/FedBCGD)].
