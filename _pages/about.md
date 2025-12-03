@@ -50,7 +50,7 @@ Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof
   
 - [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization]([https://ieeexplore.ieee.org/document/10488467](https://neurips.cc/virtual/2023/oral/73815)). **Yuanyuan Liu**, Fanhua Shang, Weixin An, Junhao Liu, Hongying Liu, Zhouchen Lin. **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
 
-- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions]((https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). **Weixin An**, Yuanyuan Liu, Fanhua Shang, Han Yu, Junkang Liu, Hongying Liu. **<i>COLING 2024</i>**.
+- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). **Weixin An**, Yuanyuan Liu, Fanhua Shang, Han Yu, Junkang Liu, Hongying Liu. **<i>COLING 2024</i>**.
 
 # 🎖 Honors and Awards
 - 2025.06, Outstanding Graduate
