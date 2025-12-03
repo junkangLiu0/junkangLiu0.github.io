@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof. Fanhua Shang. During his doctoral studies, he focuses on research topics in federated learning, large-model fine-tuning, model fusion, and multimodal learning. His work aims to explore efficient, secure, and scalable learning paradigms for distributed intelligent systems, as well as to advance adaptive techniques for modern large-scale foundation models. 
+Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en). During his doctoral studies, he focuses on research topics in federated learning, large-model fine-tuning, model fusion, and multimodal learning. His work aims to explore efficient, secure, and scalable learning paradigms for distributed intelligent systems, as well as to advance adaptive techniques for modern large-scale foundation models. 
 
 # 🔥 News
 - We release [**FedMuon**](https://arxiv.org/pdf/2510.27403), an highly efficient method for large vision language models with a two-stage design. It improves model efficiency by first conducting visual token merging in the encoding stage and then adopt KV Cache compression in the decoding stage. It could achieve about **2×** throughput across diffferent benchmarks and **3.21×** throughput boost when outputting longer sequences.
 
-- We release [**iLLaVA**](https://arxiv.org/pdf/2412.06263), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
+- We release [**DP-FedPGN**](https://arxiv.org/pdf/2510.27504), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
 
-- We release [**CorrNet+**](https://arxiv.org/abs/2404.11111), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
+- We release [**ILoRA**](https://arxiv.org/pdf/2511.16069), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
 
-- We release [**DSTA-SLR**](https://arxiv.org/abs/2403.12519), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
+- We release [**FedAdamW**](https://arxiv.org/pdf/2510.27486), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
 
 # 📝 Publications 
 
 ## 📖 PrePrint
-- [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2025.09. 
+- [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **J Liu**, F Shang, J Zhou, H Liu, Y Liu, J Liu 2025.09. 
 
 - [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2024.12. [[code](https://github.com/hulianyuyy/iLLaVA)].
 
