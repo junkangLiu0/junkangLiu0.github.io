@@ -20,24 +20,24 @@ redirect_from:
 Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en). During his doctoral studies, he focuses on research topics in federated learning, large-model fine-tuning, model fusion, and multimodal learning. His work aims to explore efficient, secure, and scalable learning paradigms for distributed intelligent systems, as well as to advance adaptive techniques for modern large-scale foundation models. 
 
 # 🔥 News
-- We release [**FedMuon**](https://arxiv.org/pdf/2510.27403), an highly efficient method for large vision language models with a two-stage design. It improves model efficiency by first conducting visual token merging in the encoding stage and then adopt KV Cache compression in the decoding stage. It could achieve about **2×** throughput across diffferent benchmarks and **3.21×** throughput boost when outputting longer sequences.
+- We release [**FedMuon**](https://arxiv.org/pdf/2510.27403), this paper proposes an innovative federated learning optimizer named FedMuon. It is the first to introduce the idea of matrix orthogonalization into federated learning. By employing two core techniques — local-global gradient alignment and cross-round momentum aggregation — it effectively addresses the client drift problem in heterogeneous data settings. Experiments on both vision and language tasks demonstrate that this method significantly reduces communication rounds and achieves faster convergence and higher accuracy under non-IID data distributions.
+  
+- We release [**DP-FedPGN**](https://arxiv.org/pdf/2510.27504), this method introduces a global gradient norm penalty into federated learning, combined with Laplacian smoothing, to effectively mitigate the sharp minima problem caused by differential privacy mechanisms. It improves model generalization and convergence efficiency under heterogeneous data distributions, as validated through experiments on vision and NLP tasks.
 
-- We release [**DP-FedPGN**](https://arxiv.org/pdf/2510.27504), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
-
-- We release [**ILoRA**](https://arxiv.org/pdf/2511.16069), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
-
-- We release [**FedAdamW**](https://arxiv.org/pdf/2510.27486), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
+- We release [**FedAdamW**](https://arxiv.org/pdf/2510.27486), a federated version of AdamW for training large Transformer models. It tackles challenges like high variance in second-moment estimates and client drift via local correction, decoupled weight decay, and block-wise aggregation. Achieves faster convergence without gradient heterogeneity assumptions and improves communication efficiency.
+  
+- We release [**ILoRA**](https://arxiv.org/pdf/2511.16069), this method introduces a global gradient norm penalty into federated learning, combined with Laplacian smoothing, to effectively mitigate the sharp minima problem caused by differential privacy mechanisms. 
 
 # 📝 Publications 
 
 ## 📖 PrePrint
-- [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **J Liu**, F Shang, J Zhou, H Liu, Y Liu, J Liu 2025.09. 
+- [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **J Liu**, F Shang, J Zhou, H Liu, Y Liu, J Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedMuon)].
 
-- [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2024.12. [[code](https://github.com/hulianyuyy/iLLaVA)].
+- [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504),**J Liu**, Y Tian, F Shang, Y Liu, H Liu, J Zhou, D Ding. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
 
-- [CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation](https://arxiv.org/pdf/2404.11111.pdf), **Lianyu Hu**, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan. 2024.04. [[code](https://github.com/hulianyuyy/CorrNet_Plus)].
-  
-- [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
+- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/pdf/2510.27486),**J Liu**, F Shang, K Zhu, H Liu, Y Liu, J Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedAdamW)].
+
+- - [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), **J Zhou**, J Liu, F Shang. 2025.11
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
 - GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. **<i>ICCV 2025</i>**.
