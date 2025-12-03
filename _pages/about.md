@@ -20,6 +20,8 @@ redirect_from:
 Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en). During his doctoral studies, he focuses on research topics in federated learning, large-model fine-tuning, model fusion, and multimodal learning. His work aims to explore efficient, secure, and scalable learning paradigms for distributed intelligent systems, as well as to advance adaptive techniques for modern large-scale foundation models. 
 
 # 🔥 News
+- We release [**FedNSAM**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226), FedNSAM uses the global Nesterov momentum as the direction of local estimation of client global perturbations and extrapolation. Theoretically, we prove a tighter convergence bound than FedSAM by Nesterov extrapolation. Empirically, we conduct comprehensive experiments on CNN and Transformer models to verify the superior performance and efficiency of FedNSAM.
+  
 - We release [**FedMuon**](https://arxiv.org/pdf/2510.27403), this paper proposes an innovative federated learning optimizer named FedMuon. It is the first to introduce the idea of matrix orthogonalization into federated learning. By employing two core techniques — local-global gradient alignment and cross-round momentum aggregation — it effectively addresses the client drift problem in heterogeneous data settings. Experiments on both vision and language tasks demonstrate that this method significantly reduces communication rounds and achieves faster convergence and higher accuracy under non-IID data distributions.
   
 - We release [**DP-FedPGN**](https://arxiv.org/pdf/2510.27504), this method introduces a global gradient norm penalty into federated learning, combined with Laplacian smoothing, to effectively mitigate the sharp minima problem caused by differential privacy mechanisms. It improves model generalization and convergence efficiency under heterogeneous data distributions, as validated through experiments on vision and NLP tasks.
@@ -31,40 +33,24 @@ Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof
 # 📝 Publications 
 
 ## 📖 PrePrint
+- [FedNSAM: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang, Yuxuan Tian, Hongying Liu, Yuanyuan Liu. 2025.10. [[code](https://github.com//junkangLiu0/FedNSAM)].
+  
 - [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **J Liu**, F Shang, J Zhou, H Liu, Y Liu, J Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedMuon)].
 
 - [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504),**J Liu**, Y Tian, F Shang, Y Liu, H Liu, J Zhou, D Ding. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
 
 - [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/pdf/2510.27486),**J Liu**, F Shang, K Zhu, H Liu, Y Liu, J Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedAdamW)].
 
-- - [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), **J Zhou**, J Liu, F Shang. 2025.11
+- [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), **J Zhou**, J Liu, F Shang. 2025.11
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
-- GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. **<i>ICCV 2025</i>**.
-
-- [Deep Correlated Prompting for Visual Recognition with Missing Modalities](https://arxiv.org/abs/2410.06558). **Lianyu Hu**, Tongkai Shi, Wei Feng, Fanhua Shang, Liang Wan. **<i>NeurIPS 2024</i>**. [[code](https://github.com/hulianyuyy/Deep_Correlated_Prompting)].
+- [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>NeurIPS 2024</i>**. [[code](https://github.com/junkangLiu0/FedBCGD)].
   
-- [Pose-Guided Fine-Grained Sign Language Video Generation](https://arxiv.org/abs/2409.16709). Tongkai Shi, **Lianyu Hu**, Fanhua Shang, Jichao Feng, Peidong Liu, Wei Feng. **<i>ECCV 2024</i>**. [[code](https://github.com/shitongkai/PGMM)].
+- [Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging](https://openreview.net/forum?id=HqmXiuFaOr). **Junkang Liu**, Yuanyuan Liu, Fanhua Shang, Hongying Liu, Jin Liu, Wei Feng. **<i>ECCV 2024</i>**.
   
-- [Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10488467). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
+- [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization]([https://ieeexplore.ieee.org/document/10488467](https://neurips.cc/virtual/2023/oral/73815)). **Yuanyuan Liu**, Fanhua Shang, Weixin An, Junhao Liu, Hongying Liu, Zhouchen Lin. **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
 
-- [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>COLING 2024</i>**. [[code](https://github.com/hulianyuyy/DSTA-SLR)]. 
-
-- [COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. **<i>AAAI 2024</i>**. [[code](https://github.com/hulianyuyy/COMMA)].
-
-- [Scalable Frame Resolution for Efficient Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323006015). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>Pattern Recognition</i>**.
-
-- [AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition](https://arxiv.org/pdf/2308.08327.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. **<i>ACMMM 2023 (Oral)</i>**. [[code](https://github.com/hulianyuyy/AdaBrowse)].
-
-- [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855). **Lianyu Hu**, Shenglan Liu, Wei Feng. **<i>Expert Systems with Applications</i>**. [[code](https://github.com/hulianyuyy/STGAT)]. (Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition)
-
-- [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>CVPR 2023</i>**. [[code](https://github.com/hulianyuyy/CorrNet)].
-
-- [Self-Emphasizing Network for Continuous Sign Language Recognition](https://arxiv.org/pdf/2211.17081.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>AAAI 2023 (Oral)</i>**. [[code](https://github.com/hulianyuyy/SEN_CSLR)].
-
-- [Temporal Lift Pooling for Continuous Sign Language Recognition](https://arxiv.org/abs/2207.08734).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>ECCV 2022</i>**. [[code](https://github.com/hulianyuyy/Temporal-Lift-Pooling)].
-
-- [HFNet: A Novel Model for Human Focused Sports Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3422844.3423052).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>ACMMM 2020 Workshop</i>**.
+- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions]((https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). **Weixin An**, Yuanyuan Liu, Fanhua Shang, Han Yu, Junkang Liu, Hongying Liu. **<i>COLING 2024</i>**.
 
 # 🎖 Honors and Awards
 - 2025.06, Outstanding Graduate
