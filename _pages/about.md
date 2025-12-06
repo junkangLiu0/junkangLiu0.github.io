@@ -20,48 +20,51 @@ redirect_from:
 Jun Kang Liu is a PhD candidate at Tianjin University, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en). During his doctoral studies, he focuses on research topics in federated learning, large-model fine-tuning, model fusion, and multimodal learning. His work aims to explore efficient, secure, and scalable learning paradigms for distributed intelligent systems, as well as to advance adaptive techniques for modern large-scale foundation models. 
 
 # 🔥 News
-- We release [**FedNSAM**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226), FedNSAM uses the global Nesterov momentum as the direction of local estimation of client global perturbations and extrapolation. Theoretically, we prove a tighter convergence bound than FedSAM by Nesterov extrapolation. Empirically, we conduct comprehensive experiments on CNN and Transformer models to verify the superior performance and efficiency of FedNSAM.
-  
-- We release [**FedMuon**](https://arxiv.org/pdf/2510.27403), this paper proposes an innovative federated learning optimizer named FedMuon. It is the first to introduce the idea of matrix orthogonalization into federated learning. By employing two core techniques — local-global gradient alignment and cross-round momentum aggregation — it effectively addresses the client drift problem in heterogeneous data settings. Experiments on both vision and language tasks demonstrate that this method significantly reduces communication rounds and achieves faster convergence and higher accuracy under non-IID data distributions.
-  
-- We release [**DP-FedPGN**](https://arxiv.org/pdf/2510.27504), this method introduces a global gradient norm penalty into federated learning, combined with Laplacian smoothing, to effectively mitigate the sharp minima problem caused by differential privacy mechanisms. It improves model generalization and convergence efficiency under heterogeneous data distributions, as validated through experiments on vision and NLP tasks.
+- 2025.10: 🎉🎉 GitHub stars have passed 400！[**JunkangLiu**](https://github.com/junkangLiu0)
+- 2025.10: 🎉🎉 Our paper [**FedAdamW**](https://arxiv.org/pdf/2510.27486) were accepted by AAAI’26！
+- 2025.7: 🎉🎉 Our paper [**FedNSAM**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226) were accepted by ACM MM’25！
+- 2025.7: 🎉🎉 Our paper [**FedBCG**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226) were accepted by NeurIPS’25！
+- 2025.5: 🎉🎉 Our paper [**FedSWA**](https://openreview.net/forum?id=HqmXiuFaOr) were accepted by ICML’25！
+- 2024.7: 🎉🎉 Our paper [**FedBCGD**](https://openreview.net/forum?id=HqmXiuFaOr) were accepted by ACM MM’24！
 
-- We release [**FedAdamW**](https://arxiv.org/pdf/2510.27486), a federated version of AdamW for training large Transformer models. It tackles challenges like high variance in second-moment estimates and client drift via local correction, decoupled weight decay, and block-wise aggregation. Achieves faster convergence without gradient heterogeneity assumptions and improves communication efficiency.
-  
-- We release [**ILoRA**](https://arxiv.org/pdf/2511.16069), this method introduces a global gradient norm penalty into federated learning, combined with Laplacian smoothing, to effectively mitigate the sharp minima problem caused by differential privacy mechanisms. 
+
 
 # 📝 Publications 
 
+
+
+## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
+
+- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/abs/2510.27486). **Junkang Liu**, Fanhua Shang, Hongying Liu, Yuanyuan Liu, Jin Liu, Kewen Zhu, Zhouchen Lin. **<i>AAAI 2026</i>**[[code](https://github.com/junkangLiu0/FedAdamW)].
+  
+- [Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging](https://openreview.net/forum?id=HqmXiuFaOr). **Junkang Liu**, Yuanyuan Liu, Fanhua Shang, Hongying Liu, Jin Liu, Wei Feng. **<i>ICML 2025</i>**[[code](https://github.com/junkangLiu0/FedSWA)].
+  
+- [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>ACM MM 2024</i>**. [[code](https://github.com/junkangLiu0/FedBCGD)].
+  
+- [Consistency of local and global flatness for federated learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang, , Yuxuan Tian, Hongying Liu,Yuanyuan Liu. **<i>ACM MM 2025</i>**. [[code](https://github.com/junkangLiu0/FedNSAM)].
+  
+  
+- [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization](https://neurips.cc/virtual/2023/oral/73815). Yuanyuan Liu, Fanhua Shang, Weixin An, **Junkang Liu**, Hongying Liu, Zhouchen Lin. **<i>NeurIPS’23</i>**.
+
+- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). Weixin An, Yuanyuan Liu, Fanhua Shang, Han Yu, **Junkang Liu**, Hongying Liu. **<i>NeurIPS’25</i>**.
+
+
 ## 📖 PrePrint
-- [FedNSAM: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226), **Junkang Liu**, Fanhua Shang, Yuxuan Tian, Hongying Liu, Yuanyuan Liu. 2025.10. [[code](https://github.com//junkangLiu0/FedNSAM)].
   
 - [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **Junkang Liu**, Fanhua Shang, Junchao Zhou, Hongying Liu, Yuanyuan Liu, Jin Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedMuon)].
 
 - [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504), **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
 
-- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/pdf/2510.27486), **Junkang Liu**, Fanhua Shang, Kewen Zhu, Hongying Liu, Yuanyuan Liu, Jin Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedAdamW)].
-
-- [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), **Junchao Zhou**, Junkang Liu, Fanhua Shang. 2025.11
-
-## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
-- [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>NeurIPS 2024</i>**. [[code](https://github.com/junkangLiu0/FedBCGD)].
-  
-- [Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging](https://openreview.net/forum?id=HqmXiuFaOr). **Junkang Liu**, Yuanyuan Liu, Fanhua Shang, Hongying Liu, Jin Liu, Wei Feng. **<i>ECCV 2024</i>**.
-  
-- [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization]([https://ieeexplore.ieee.org/document/10488467](https://neurips.cc/virtual/2023/oral/73815)). **Yuanyuan Liu**, Fanhua Shang, Weixin An, Junhao Liu, Hongying Liu, Zhouchen Lin. **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
-
-- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). **Weixin An**, Yuanyuan Liu, Fanhua Shang, Han Yu, Junkang Liu, Hongying Liu. **<i>COLING 2024</i>**.
+- [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), Junchao Zhou, **Junkang Liu**, Fanhua Shang. 2025.11
 
 # 🎖 Honors and Awards
-- 2025.06, Outstanding Graduate
-- 2024.12, 优秀学生标兵（ten per year）
 - 2024.10, National Scholarship
-- 2023.10, National Scholarship
+- 2020.10, National Scholarship
 
 # 📖 Educations
-- *2021-2025*, PhD in Computer Science and Technology, Tianjin Univerisity
-- *2018-2021*, MEng in Computer Science and Technology, Dalian University of Technology
-- *2014-2018*, BSc in Electronics and Information Engineering, Dalian University of Technology
+- *2025-*, PhD in Computer Science and Technology, Tianjin Univerisity
+- *2022-2025*, MEng in Computer Science and Technology, Xidian University 
+- *2018-2022*, BSc in Mathematics, Qingdao University 
 
 <!--
 
