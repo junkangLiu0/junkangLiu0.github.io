@@ -23,9 +23,9 @@ Jun Kang Liu (刘俊康) is a PhD candidate at Tianjin University, China, superv
 - 2025.10: 🎉🎉 GitHub stars have passed 400！[**JunkangLiu**](https://github.com/junkangLiu0)
 - 2025.10: 🎉🎉 Our paper [**FedAdamW**](https://arxiv.org/pdf/2510.27486) were accepted by AAAI’26！
 - 2025.7: 🎉🎉 Our paper [**FedNSAM**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226) were accepted by ACM MM’25！
-- 2025.7: 🎉🎉 Our paper [**FedBCG**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226) were accepted by NeurIPS’25！
+- 2025.7: 🎉🎉 Our paper [**FedBCG**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430) were accepted by NeurIPS’25！
 - 2025.5: 🎉🎉 Our paper [**FedSWA**](https://openreview.net/forum?id=HqmXiuFaOr) were accepted by ICML’25！
-- 2024.7: 🎉🎉 Our paper [**FedBCGD**](https://openreview.net/forum?id=HqmXiuFaOr) were accepted by ACM MM’24！
+- 2024.7: 🎉🎉 Our paper [**FedBCGD**](https://dl.acm.org/doi/abs/10.1145/3664647.3681094) were accepted by ACM MM’24！
 
 
 
@@ -57,22 +57,26 @@ Jun Kang Liu (刘俊康) is a PhD candidate at Tianjin University, China, superv
 
 - [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2510.27504), Junchao Zhou, **Junkang Liu**, Fanhua Shang. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
   
--  Dynamic Differentially Private Online ADMM Algorithms with Running Average Gradients for Machine Learning, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
--  IGFL:Combining Individual and Group Behaviors in Federated Learning Approaching Global Consistency, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
-- LSSCA: Differentially Private Federated Learning with Laplacian Smoothing and Stochastic Controlled Averaging, Junchao Zhou, **Junkang Liu**, Fanhua Shang. 2025.11
+-  <span style="color:blue"> Dynamic Differentially Private Online ADMM Algorithms with Running Average Gradients for Machine Learning</span>, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
   
-- Towards Global Flat Minima in Sample-Level Private Federated Learning, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.11
+-  <span style="color:blue">IGFL:Combining Individual and Group Behaviors in Federated Learning Approaching Global Consistency</span>, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
   
-- DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
+- <span style="color:blue">LSSCA: Differentially Private Federated Learning with Laplacian Smoothing and Stochastic Controlled Averaging</span>, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
   
-- Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
-- LAVA: A UNIFIED FRAMEWORK FOR FINETUNING LANGUAGE AND VISION MODELSs, Daorui Ding, Fanhua Shang, Tiancan Feng, **Junkang Liu**, Hongying Liu . 2025.10
+- <span style="color:blue">Towards Global Flat Minima in Sample-Level Private Federated Learning</span>, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.11
+  
+- <span style="color:blue">DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models</span>, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
+  
+- <span style="color:blue">Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models</span>, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
+  
+- <span style="color:blue">LAVA: A UNIFIED FRAMEWORK FOR FINETUNING LANGUAGE AND VISION MODELSs</span>, Daorui Ding, Fanhua Shang, Tiancan Feng, **Junkang Liu**, Hongying Liu . 2025.10
 
 
 
 # 🎖 Honors and Awards
 - 2024.10, National Scholarship
 - 2020.10, National Scholarship
+- 2020.10, Qingdao University Top Ten Outstanding Students Award
 
 # 📖 Educations
 - *2025-*, PhD in Computer Science and Technology, Tianjin Univerisity
