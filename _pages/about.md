@@ -41,7 +41,7 @@ Jun Kang Liu (刘俊康) is a PhD candidate at Tianjin University, China, superv
   
 - [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>ACM MM 2024</i>**. [[code](https://github.com/junkangLiu0/FedBCGD)].
   
-- [Consistency of local and global flatness for federated learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang, , Yuxuan Tian, Hongying Liu,Yuanyuan Liu. **<i>ACM MM 2025</i>**. [[code](https://github.com/junkangLiu0/FedNSAM)].
+- [Consistency of local and global flatness for federated learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang,  Yuxuan Tian, Hongying Liu,Yuanyuan Liu. **<i>ACM MM 2025</i>**. [[code](https://github.com/junkangLiu0/FedNSAM)].
   
   
 - [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization](https://neurips.cc/virtual/2023/oral/73815). Yuanyuan Liu, Fanhua Shang, Weixin An, **Junkang Liu**, Hongying Liu, Zhouchen Lin. **<i>NeurIPS’23</i>**.
