@@ -63,7 +63,7 @@ Jun Kang Liu (刘俊康) is a PhD candidate at Tianjin University, China, superv
 
 # 📖 Educations
 - *2025-*, PhD in Computer Science and Technology, Tianjin Univerisity
-- *2022-2025*, MEng in Computer Science and Technology, Xidian University 
+- *2022-2025*, Master in Computer Science and Technology, Xidian University 
 - *2018-2022*, BSc in Mathematics, Qingdao University 
 
 <!--
