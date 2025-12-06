@@ -53,9 +53,17 @@ Jun Kang Liu (刘俊康) is a PhD candidate at Tianjin University, China, superv
   
 - [FedMuon: Accelerating Federated Learning with Matrix Orthogonalization](https://arxiv.org/pdf/2510.27403), **Junkang Liu**, Fanhua Shang, Junchao Zhou, Hongying Liu, Yuanyuan Liu, Jin Liu. 2025.10. [[code](https://github.com/junkangLiu0/FedMuon)].
 
-- [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504), **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding. 2025.10. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
-
-- [ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation](https://arxiv.org/pdf/2511.16069), Junchao Zhou, **Junkang Liu**, Fanhua Shang. 2025.11
+- [DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm](https://arxiv.org/pdf/2510.27504), **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding. 2025.5. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
+  
+-  Dynamic Differentially Private Online ADMM Algorithms with Running Average Gradients for Machine Learning, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
+-  IGFL:Combining Individual and Group Behaviors in Federated Learning Approaching Global Consistency, Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 2025.11
+- LSSCA: Differentially Private Federated Learning with Laplacian Smoothing and Stochastic Controlled Averaging, Junchao Zhou, **Junkang Liu**, Fanhua Shang. 2025.11
+  
+- Towards Global Flat Minima in Sample-Level Private Federated Learning, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.11
+  
+- DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
+  
+- Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models, Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
 
 # 🎖 Honors and Awards
 - 2024.10, National Scholarship
