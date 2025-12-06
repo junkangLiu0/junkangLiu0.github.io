@@ -35,18 +35,18 @@ Jun Kang Liu (刘俊康) is a PhD candidate at Tianjin University, China, superv
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
 
-- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/abs/2510.27486). **Junkang Liu**, Fanhua Shang, Hongying Liu, Yuanyuan Liu, Jin Liu, Kewen Zhu, Zhouchen Lin. **<i>AAAI 2026</i>**[[code](https://github.com/junkangLiu0/FedAdamW)].
+- [FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models](https://arxiv.org/abs/2510.27486). **Junkang Liu**, Fanhua Shang, Hongying Liu, Yuanyuan Liu, Jin Liu, Kewen Zhu, Zhouchen Lin. **<i>AAAI 2026</i>** <span style="color:red"><strong>(CCF-A)</strong></span>[[code](https://github.com/junkangLiu0/FedAdamW)].
   
-- [Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging](https://openreview.net/forum?id=HqmXiuFaOr). **Junkang Liu**, Yuanyuan Liu, Fanhua Shang, Hongying Liu, Jin Liu, Wei Feng. **<i>ICML 2025</i>**[[code](https://github.com/junkangLiu0/FedSWA)].
+- [Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging](https://openreview.net/forum?id=HqmXiuFaOr). **Junkang Liu**, Yuanyuan Liu, Fanhua Shang, Hongying Liu, Jin Liu, Wei Feng. **<i>ICML 2025</i>** <span style="color:red"><strong>(CCF-A)</strong></span>[[code](https://github.com/junkangLiu0/FedSWA)].
   
-- [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>ACM MM 2024</i>**. [[code](https://github.com/junkangLiu0/FedBCGD)].
+- [Fedbcgd: Communication-efficient accelerated block coordinate gradient descent for federated learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681094). **Junkang Liu**, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Yuangang Li, YunXiang Gong. **<i>ACM MM 2024</i>** <span style="color:red"><strong>(CCF-A)</strong></span>. [[code](https://github.com/junkangLiu0/FedBCGD)].
   
-- [Consistency of local and global flatness for federated learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang,  Yuxuan Tian, Hongying Liu,Yuanyuan Liu. **<i>ACM MM 2025</i>**. [[code](https://github.com/junkangLiu0/FedNSAM)].
+- [Consistency of local and global flatness for federated learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755226). **Junkang Liu**, Fanhua Shang,  Yuxuan Tian, Hongying Liu,Yuanyuan Liu. **<i>ACM MM 2025</i>** <span style="color:red"><strong>(CCF-A)</strong></span>. [[code](https://github.com/junkangLiu0/FedNSAM)].
   
   
-- [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization](https://neurips.cc/virtual/2023/oral/73815). Yuanyuan Liu, Fanhua Shang, Weixin An, **Junkang Liu**, Hongying Liu, Zhouchen Lin. **<i>NeurIPS’23</i>**.
+- [A single-loop accelerated extra-gradient difference algorithm with improved complexity bounds for constrained minimax optimization](https://neurips.cc/virtual/2023/oral/73815). Yuanyuan Liu, Fanhua Shang, Weixin An, **Junkang Liu**, Hongying Liu, Zhouchen Lin. **<i>NeurIPS’23</i>** <span style="color:red"><strong>(CCF-A)</strong></span>.
 
-- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). Weixin An, Yuanyuan Liu, Fanhua Shang, Han Yu, **Junkang Liu**, Hongying Liu. **<i>NeurIPS’25</i>**.
+- [Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario under Weaker Assumptions](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430). Weixin An, Yuanyuan Liu, Fanhua Shang, Han Yu, **Junkang Liu**, Hongying Liu. **<i>NeurIPS’25</i>** <span style="color:red"><strong>(CCF-A)</strong></span>.
 
 
 ## 📖 PrePrint
