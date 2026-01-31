@@ -42,7 +42,8 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 ---
 
 # 🔥 News
-- **2025.10**: 🎉🎉 GitHub stars have passed 500！[**JunkangLiu**](https://github.com/junkangLiu0)
+- **2026.1**: 🎉🎉 Our paper **LA-LORA** were accepted by **ICLR’26**！
+- **2025.10**: 🎉🎉 GitHub stars have passed 600！[**JunkangLiu**](https://github.com/junkangLiu0)
 - **2025.10**: 🎉🎉 Our paper [**FedAdamW**](https://arxiv.org/pdf/2510.27486) were accepted by **AAAI’26**！
 - **2025.7**: 🎉🎉 Our paper [**FedNSAM**](https://dl.acm.org/doi/abs/10.1145/3746027.3755226) were accepted by **ACM MM’25**！
 - **2025.7**: 🎉🎉 Our paper [**FedBCG**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430) were accepted by **NeurIPS’25**！
