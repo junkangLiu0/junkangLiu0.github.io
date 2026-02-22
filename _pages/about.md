@@ -42,6 +42,8 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 ---
 
 # 🔥 News
+- **2026.2**: 🎉🎉 Our paper **ILORA** were accepted by **CVPR’26**！
+- **2026.2**: 🎉🎉 Our paper **DP-FedAdamW** were accepted by **CVPR’26**！
 - **2026.1**: 🎉🎉 Our paper **LA-LORA** were accepted by **ICLR’26**！
 - **2025.10**: 🎉🎉 GitHub stars have passed 600！[**JunkangLiu**](https://github.com/junkangLiu0)
 - **2025.10**: 🎉🎉 Our paper [**FedAdamW**](https://arxiv.org/pdf/2510.27486) were accepted by **AAAI’26**！
