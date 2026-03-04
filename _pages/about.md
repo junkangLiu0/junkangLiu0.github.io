@@ -73,9 +73,21 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
    **ACM MM 2024 (CCF-A)** [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681094)] [[code](https://github.com/junkangLiu0/FedBCGD)]
 
 - **Local-Global Flatness Consistency in Federated Learning**  
- **Junkang Liu**, Fanhua Shang,  Yuxuan Tian, Hongying Liu,Yuanyuan Liu..  
+ **Junkang Liu**, Fanhua Shang,  Yuxuan Tian, Hongying Liu,Yuanyuan Liu. 
  **ACM MM 2025 (CCF-A)**  [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755226)] [[code](https://github.com/junkangLiu0/FedNSAM)]
 
+- [**ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation**](https://arxiv.org/pdf/2510.27504)  
+   Junchao Zhou, **Junkang Liu**, Fanhua Shang. [[code](https://github.com/junkangLiu0/DP-FedPGN)].
+   **CVPR 2026 (CCF-A)**
+
+- <span style="color:blue">**DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models**</span>  
+  Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**.
+  **CVPR 2026 (CCF-A)** 
+  
+- <span style="color:blue">**Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models**</span>  
+   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**.
+   **ICLR 2026** 
+  
 - **High-Probability Bounds for Nonconvex Heavy-Tailed Learning**  
    Weixin An, Yuanyuan Liu, Fanhua Shang, Han Yu, **Junkang Liu**, Hongying Liu.  
  **NeurIPS 2025 (CCF-A)**  [[paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430)]
@@ -106,12 +118,7 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 - <span style="color:blue">Towards Global Flat Minima in Sample-Level Private Federated Learning</span>  
   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 
   
-- <span style="color:blue">DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models</span>  
-  Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 
-  
-- <span style="color:blue">Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models</span>  
-   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 2025.10
-  
+
 - <span style="color:blue">LAVA: A UNIFIED FRAMEWORK FOR FINETUNING LANGUAGE AND VISION MODELSs</span>  
   Daorui Ding, Fanhua Shang, Tiancan Feng, **Junkang Liu**, Hongying Liu . 
 
