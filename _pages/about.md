@@ -38,8 +38,8 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 
 📧 Email: junkangliukk@gmail.com  
 💬 WeChat: kk15653218567  
-🔗 GitHub: https://github.com/junkangLiu0
-
+🔗 GitHub: https://github.com/junkangLiu0  
+🎓 Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=N7pJWIoAAAAJ
 ---
 
 # 🔥 News
