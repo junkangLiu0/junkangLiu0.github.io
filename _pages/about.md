@@ -30,7 +30,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# **Junkang Liu 刘俊康 | Tianjin University PHD**
+# **刘俊康 Junkang Liu | 天津大学 Tianjin University PHD**
 
 **刘俊康, Junkang Liu** is a PhD candidate at **Tianjin University**, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en).  
 His research interests include **federated learning**, **communication-efficient optimizers**, **large-model fine-tuning**, **model fusion**, and **multimodal learning**.  
