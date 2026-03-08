@@ -3,6 +3,7 @@ permalink: /
 title: "Junkang Liu (刘俊康, Liu Junkang)"
 excerpt: "Federated Learning | Large Model Optimization | Privacy-Preserving Learning"
 description: "Junkang Liu (刘俊康) — PhD candidate at Tianjin University, focusing on federated learning, large-model optimization, model fusion, and privacy-preserving machine learning."
+
 keywords: [
   "Junkang Liu",
   "刘俊康",
@@ -133,7 +134,7 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 - 2020.10, **Qingdao University Top Ten Outstanding Students Award**
 
 # 📖 Educations
-- *2025-*, PhD in Computer Science and Technology, Tianjin Univerisity
+- *2025-*, PhD in Computer Science and Technology, Tianjin University
 - *2022-2025*, Master in Computer Science and Technology, Xidian University 
 - *2018-2022*, BSc in Mathematics, Qingdao University 
 
