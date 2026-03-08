@@ -1,8 +1,11 @@
 ---
 permalink: /
-title: "刘俊康, Liu Junkang, Junkang Liu"
+title: "刘俊康 | Junkang Liu"
 excerpt: "Federated Learning | Large Model Optimization | Privacy-Preserving Learning"
-description: "刘俊康 , Junkang Liu  — PhD candidate at Tianjin University, focusing on federated learning, large-model optimization, model fusion, and privacy-preserving machine learning. All implementations are reproducible and resource-efficient, with most experiments runnable on a single RTX 4090 or RTX 2080 GPU."
+description: "刘俊康（Junkang Liu）是天津大学博士生，研究方向包括联邦学习、大模型优化、隐私保护机器学习、多模态学习与模型融合。个人主页包含论文、代码、学术动态与联系方式。 Junkang Liu  — PhD candidate at Tianjin University, focusing on federated learning, large-model optimization, model fusion, and privacy-preserving machine learning. All implementations are reproducible and resource-efficient, with most experiments runnable on a single RTX 4090 or RTX 2080 GPU."
+
+
+
 
 keywords: [
   "Junkang Liu",
@@ -30,7 +33,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# **刘俊康 Junkang Liu | 天津大学 Tianjin University PHD**
+# **刘俊康 (Junkang Liu)**
 
 **刘俊康, Junkang Liu** is a PhD candidate at **Tianjin University**, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en).  
 His research interests include **federated learning**, **communication-efficient optimizers**, **large-model fine-tuning**, **model fusion**, and **multimodal learning**.  
