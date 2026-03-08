@@ -81,12 +81,12 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
    **CVPR 2026 (CCF-A)**
 
 - <span style="color:blue">**DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models**</span>  
-  Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**.
+  Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**$\dagger$.
   **CVPR 2026 (CCF-A)** 
   
 - <span style="color:blue">**Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models**</span>  
-   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**.
-   **ICLR 2026** 
+   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**$\dagger$.
+   **ICLR 2026  (CCF-A)** 
   
 - **High-Probability Bounds for Nonconvex Heavy-Tailed Learning**  
    Weixin An, Yuanyuan Liu, Fanhua Shang, Han Yu, **Junkang Liu**, Hongying Liu.  
