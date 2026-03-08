@@ -2,7 +2,7 @@
 permalink: /
 title: "Junkang Liu (刘俊康, Liu Junkang)"
 excerpt: "Federated Learning | Large Model Optimization | Privacy-Preserving Learning"
-description: "Junkang Liu (刘俊康) — PhD candidate at Tianjin University, focusing on federated learning, large-model optimization, model fusion, and privacy-preserving machine learning." All implementations are reproducible and resource-efficient, with most experiments runnable on a single RTX 4090 or RTX 2080 GPU.
+description: "Junkang Liu (刘俊康) — PhD candidate at Tianjin University, focusing on federated learning, large-model optimization, model fusion, and privacy-preserving machine learning. All implementations are reproducible and resource-efficient, with most experiments runnable on a single RTX 4090 or RTX 2080 GPU."
 
 keywords: [
   "Junkang Liu",
