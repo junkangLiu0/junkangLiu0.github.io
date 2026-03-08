@@ -99,18 +99,19 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 ## 📖 PrePrint
   
 - **FedMuon: Accelerating Federated Learning with Matrix Orthogonalization**    
-**Junkang Liu**, Fanhua Shang, Junchao Zhou, Hongying Liu, Yuanyuan Liu, Jin Liu.  
+**Junkang Liu**, Fanhua Shang, Junchao Zhou, Hongying Liu, Yuanyuan Liu, Jin Liu.    
 [[paper](https://arxiv.org/abs/2510.27403)] [[code](https://github.com/junkangLiu0/FedMuon)]
 
-* **Taming Preconditioner Drift: Unlocking the Potential of Second-Order Optimizers for Federated Learning on Non-IID Data**
-  **Junkang Liu**, Fanhua Shang, Hongying Liu, Jin Liu, Weixin An, Yuanyuan Liu.
+* **Taming Preconditioner Drift: Unlocking the Potential of Second-Order Optimizers for Federated Learning on Non-IID Data**  
+  **Junkang Liu**, Fanhua Shang, Hongying Liu, Jin Liu, Weixin An, Yuanyuan Liu.  
   [[paper](https://arxiv.org/abs/2602.19271)] [[code](https://anonymous.4open.science/r/FedPAC-8B24)]
 
-- **DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm**    
-  **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding. [[paper](https://arxiv.org/pdf/2510.27504)] [[code](https://github.com/junkangLiu0/DP-FedPGN)].
+- **DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm**        
+  **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding.  
+  [[paper](https://arxiv.org/pdf/2510.27504)] [[code](https://github.com/junkangLiu0/DP-FedPGN)].
 
   
--  **Dynamic Differentially Private Online ADMM Algorithms with Running Average Gradients for Machine Learning**    
+-  **Dynamic Differentially Private Online ADMM Algorithms with Running Average Gradients for Machine Learning**       
   Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 
   
 -  **IGFL:Combining Individual and Group Behaviors in Federated Learning Approaching Global Consistency**   
