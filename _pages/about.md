@@ -46,6 +46,7 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 ---
 
 # 🔥 News
+- **2026.5**: 🎉🎉 Our paper [**LAVA**](https://arxiv.org/abs/2511.16069) were accepted by **ICML’26**！
 - **2026.2**: 🎉🎉 Our paper [**ILORA**](https://arxiv.org/abs/2511.16069) were accepted by **CVPR’26**！
 - **2026.2**: 🎉🎉 Our paper [**DP-FedAdamW**](https://arxiv.org/abs/2602.19945) were accepted by **CVPR’26**！
 - **2026.1**: 🎉🎉 Our paper [**LA-LORA**](https://arxiv.org/abs/2602.19926) were accepted by **ICLR’26**！
@@ -92,6 +93,10 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**$\dagger$.  
   **ICLR 2026 (CCF-A)**  [[paper](https://arxiv.org/abs/2602.19926)] [[code](https://github.com/junkangLiu0/FedAdamW)]
   
+- **LAVA: A UNIFIED FRAMEWORK FOR FINETUNING LANGUAGE AND VISION MODELSs**    
+  Daorui Ding, Fanhua Shang, Tiancan Feng, **Junkang Liu**, Hongying Liu . 
+ **ICML 2026 (CCF-A)** 
+  
 - **High-Probability Bounds for Nonconvex Heavy-Tailed Learning**   
    Weixin An, Yuanyuan Liu, Fanhua Shang, Han Yu, **Junkang Liu**, Hongying Liu.      
  **NeurIPS 2025 (CCF-A)**  [[paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/115430)]
@@ -127,8 +132,7 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
   Jin Liu, Ning Xi, Yinbin Miao, **Junkang Liu**. 
   
 
-- **LAVA: A UNIFIED FRAMEWORK FOR FINETUNING LANGUAGE AND VISION MODELSs**    
-  Daorui Ding, Fanhua Shang, Tiancan Feng, **Junkang Liu**, Hongying Liu . 
+
 
 
 
