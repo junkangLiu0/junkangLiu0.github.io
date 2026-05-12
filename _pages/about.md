@@ -35,7 +35,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # **刘俊康 (Junkang Liu)**
 
-**刘俊康, Junkang Liu** is a PhD candidate at **Tianjin University**, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en).  
+**刘俊康, Junkang Liu** is a PhD candidate at **Tianjin University**, China, supervised by Prof. [Fanhua Shang](https://scholar.google.com.sg/citations?user=rk_HZTkAAAAJ&hl=en) and [Dacheng Tao](https://scholar.google.com.hk/citations?user=RwlJNLcAAAAJ&hl=zh-CN).  
 His research interests include **federated learning**, **communication-efficient optimizers**, **large-model fine-tuning**, **model fusion**, and **multimodal learning**.  
 He focuses on building **efficient, secure, and scalable distributed learning systems**, with an emphasis on optimization and generalization of modern large foundation models.
 
