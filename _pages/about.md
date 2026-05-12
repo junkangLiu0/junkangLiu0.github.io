@@ -81,6 +81,10 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
  **Junkang Liu**, Fanhua Shang,  Yuxuan Tian, Hongying Liu,Yuanyuan Liu.   
  **ACM MM 2025 (CCF-A)**  [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755226)] [[code](https://github.com/junkangLiu0/FedNSAM)]
 
+ - **DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm**        
+  **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding.  
+  **TIFS 2026 (CCF-A)** [[paper](https://arxiv.org/pdf/2510.27504)] [[code](https://github.com/junkangLiu0/DP-FedPGN)].
+
 - **ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation**   
   Junchao Zhou, **Junkang Liu**, Fanhua Shang.  
   **CVPR 2026 (CCF-A)**  [[paper](https://arxiv.org/abs/2511.16069)] [[code](#)]
@@ -114,11 +118,12 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
   **Junkang Liu**, Fanhua Shang, Hongying Liu, Jin Liu, Weixin An, Yuanyuan Liu.  
   [[paper](https://arxiv.org/abs/2602.19271)] [[code](https://anonymous.4open.science/r/FedPAC-8B24)]
 
-- **DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm**        
-  **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding.  
-  [[paper](https://arxiv.org/pdf/2510.27504)] [[code](https://github.com/junkangLiu0/DP-FedPGN)].
-
+* **PAI: Plasticity-Anchored Initialization for Improved Stability-Plasticity Trade-offs in Continual Learning**  
+  **Junkang Liu**, Yan Sun, Fanhua Shang, Hongying Liu, Jin Liu, Dacheng Tao.
   
+* **FedLore: Communication and Memory Efficient Federated Learning via Gradient Low-Rank Projection**  
+  **Junkang Liu**, Fanhua Shang, Hongying Liu, Jin Liu, Weixin An, Yuanyuan Liu.  
+
 -  **Dynamic Differentially Private Online ADMM Algorithms with Running Average Gradients for Machine Learning**       
   Fanhua Shang, **Junkang Liu**, Weixin An, Hongying Liu. 
   
