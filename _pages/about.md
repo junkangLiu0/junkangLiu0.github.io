@@ -50,6 +50,7 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
 * 我的其他论文也都是这一套代码配置，均可复现！差分隐私，联邦泛化，联邦大模型，联邦优化，联邦大模型微调lora
 
 # 🔥 News
+- **2026.9**: 🎉🎉 Our paper [**FedRSAM**] were accepted by **NeurIPS’26**！
 - **2026.5**: 🎉🎉 Our paper [**LAVA**](https://arxiv.org/abs/2511.16069) were accepted by **ICML’26**！
 - **2026.2**: 🎉🎉 Our paper [**ILORA**](https://arxiv.org/abs/2511.16069) were accepted by **CVPR’26**！
 - **2026.2**: 🎉🎉 Our paper [**DP-FedAdamW**](https://arxiv.org/abs/2602.19945) were accepted by **CVPR’26**！
@@ -88,6 +89,10 @@ He focuses on building **efficient, secure, and scalable distributed learning sy
  - **DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm**        
   **Junkang Liu**, Yuxuan Tian, Fanhua Shang, Yuanyuan Liu, Hongying Liu, Junchao Zhou, Daorui Ding.  
   **TIFS 2026 (CCF-A)** [[paper](https://arxiv.org/pdf/2510.27504)] [[code](https://github.com/junkangLiu0/DP-FedPGN)].
+
+- **[Focus on Where You Aggregate: Restricted SAM for Non-IID Federated Learning](https://openreview.net/group?id=NeurIPS.cc/2026/Conference/Authors&referrer=%5BHomepage%5D(%2F)#:~:text=Focus%20on%20Where%20You%20Aggregate%3A%20Restricted%20SAM%20for%20Non%2DIID%20Federated%20Learning)**   
+  Haotong Wen, **Junkang Liu**, Yi Xu, Xiao Liu, Longkun Guo, Kewen Liao .                 
+  **NeurIPS’26 (CCF-A)**  
 
 - **ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation**   
   Junchao Zhou, **Junkang Liu**, Fanhua Shang.  
