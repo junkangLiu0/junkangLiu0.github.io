@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jin Liu (刘瑾)"
+title                    : "Junkang Liu (刘俊康)"
 description              : " "
-repository               : ""
+repository               : "junkangLiu0/junkangLiu0.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -20,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jin Liu"
-  avatar           : "images/jin-liu.png"
-  bio              : "Privacy-Preserving Machine Learning · Xidian University"
-  location         : "Xi’an, China"
+  name             : "Junkang Liu"
+  avatar           : "images/微信图片_20251201230158_398_362.jpg"
+  bio              : "PhD candidate in Tianjin Univeisity"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=oGle5j0AAAAJ&hl=zh-CN"
-  email            : 
+  googlescholar    : "https://scholar.google.com.sg/citations?user=N7pJWIoAAAAJ&hl=en"
+  email            : "junkangliukk@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -36,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "junkangLiu0"
   google_plus      :
   keybase          :
   instagram        :
@@ -65,6 +66,7 @@ include:
   - files
 exclude:
   - docs
+  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -159,4 +161,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
