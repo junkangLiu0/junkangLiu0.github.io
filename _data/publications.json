@@ -1,0 +1,58 @@
+[
+  {
+    "year": "2026",
+    "tag": "CVPR",
+    "title": "DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models",
+    "authors": "J Liu, N Xi, Y Miao, J Liu",
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "url": "https://arxiv.org/abs/2602.19945"
+  },
+  {
+    "year": "2026",
+    "tag": "Preprint",
+    "title": "When Privacy Hurts Mergeability: Geometry-Aware Model Merging under Differential Privacy",
+    "authors": "J Liu, J Liu, N Xi, Y Miao, D Wei, K Cheng, J Ma",
+    "venue": "arXiv preprint arXiv:2608.26655",
+    "url": "https://arxiv.org/abs/2608.26655"
+  },
+  {
+    "year": "2026",
+    "tag": "Preprint",
+    "title": "Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models",
+    "authors": "J Liu, Y Miao, N Xi, J Liu",
+    "venue": "arXiv preprint arXiv:2602.19926",
+    "url": "https://arxiv.org/abs/2602.19926"
+  },
+  {
+    "year": "2026",
+    "tag": "AAAI",
+    "title": "Fedadamw: A communication-efficient optimizer with convergence and generalization guarantees for federated large models",
+    "authors": "J Liu, F Shang, H Liu, Y Tian, Y Liu, J Liu, K Zhu, Z Lin",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (28)",
+    "url": "https://arxiv.org/abs/2510.27486"
+  },
+  {
+    "year": "2025",
+    "tag": "ICML",
+    "title": "Improving generalization in federated learning with highly heterogeneous data via momentum-based stochastic controlled weight averaging",
+    "authors": "J Liu, Y Liu, F Shang, H Liu, J Liu, W Feng",
+    "venue": "Forty-second International Conference on Machine Learning",
+    "url": "https://openreview.net/forum?id=HqmXiuFaOr"
+  },
+  {
+    "year": "2025",
+    "tag": "Preprint",
+    "title": "Fedmuon: Accelerating federated learning with matrix orthogonalization",
+    "authors": "J Liu, F Shang, J Zhou, H Liu, Y Liu, J Liu",
+    "venue": "arXiv preprint arXiv:2510.27403",
+    "url": "https://arxiv.org/abs/2510.27403"
+  },
+  {
+    "year": "2022",
+    "tag": "SecureComm",
+    "title": "Decentralized access control for secure microservices cooperation with blockchain",
+    "authors": "N Xi, Y Li, J Liu",
+    "venue": "International Conference on Security and Privacy in Communication Networks, 598–614",
+    "url": "https://scholar.google.com.hk/scholar?q=Decentralized+access+control+for+secure+microservices+cooperation+with+blockchain"
+  }
+]
